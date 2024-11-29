@@ -1,0 +1,12 @@
+OCR help
+Resume will be uploaded so need to extract the data from Resume and then according to this sort it out
+
+
+we need to use parser
+language model as chatpdf
+that could extract the data
+
+
+there will be upload button or already saved pdf files of resume, so we need to extract the age, experience, education, country from the pdf files, later it will be managed or sorted out to the best cv according to age, experience, education, country. parsr can be used for this in django python. so what will be suggession to start it.
+
+Need to use LLM model, OCR, and Parcer Langchain for the pdf or image for reading or extracting the specific information like age, experience, education, country from the pdf files then it will give the output in the form of Json and save it to the json file directory
